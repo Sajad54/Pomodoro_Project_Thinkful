@@ -1,11 +1,11 @@
 # Pomodoro_Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
-This program allows the user to set a focus and break timer and when time runs out audio will be played signaling that either timer has ended.\
-A timer with a focus mode where audio plays after the time expires.\
-Contains a break timer where audio plays after time expires.\
-Based on the time management method developed in the late 1980s by Francesco Cirillo.\
-Built With: HTLM, CSS, Javascript.
+- This program allows the user to set a focus and break timer and when time runs out audio will be played signaling that either timer has ended.\
+- A timer with a focus mode where audio plays after the time expires.\
+- Contains a break timer where audio plays after time expires.\
+- Based on the time management method developed in the late 1980s by Francesco Cirillo.\
+- Built With: HTLM, CSS, Javascript.
 
 ## Available Scripts
 
