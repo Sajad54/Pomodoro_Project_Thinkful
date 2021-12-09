@@ -1,6 +1,6 @@
 # Pomodoro_Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 This program allows the user to set a focus and break timer and when time runs out audio will be played signaling that either timer has ended.
 A timer with a focus mode where audio plays after the time expires.
 Contains a break timer where audio plays after time expires.
